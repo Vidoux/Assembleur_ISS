@@ -1,3 +1,4 @@
+// Dans notre assembleur il doit traiter le jeu d'instruction réduit
 package com.ISS;
 
 import java.io.IOException;
